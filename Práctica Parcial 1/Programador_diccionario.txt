@@ -1,0 +1,14 @@
+USER_ID: Identificador del estudiante
+HORAS_DATASCIENCE: Número de horas dedicadas al estudio de ciencia de datos
+HORAS_BACKEND: Número de horas dedicadas al estudio de tecnologías para backend
+HORAS_FRONTEND: Número de horas dedicadas al estudio de tecnologías para frontend
+NUM_CURSOS_BEGINNER_DATASCIENCE: Número de cursos de ciencia de datos para principiantes completados
+NUM_CURSOS_BEGINNER_BACKEND: Número de cursos de backend para principiantes completados
+NUM_CURSOS_BEGINNER_FRONTEND: Número de cursos de frontend para principiantes completados
+NUM_CURSOS_ADVANCED_DATASCIENCE: Número de cursos de ciencia de datos avanzados completados
+NUM_CURSOS_ADVANCED_BACKEND: Número de cursos de backend avanzados completados
+NUM_CURSOS_ADVANCED_FRONTEND: Número de cursos de frontend avanzados completados
+AVG_SCORE_DATASCIENCE: Puntaje promedio en cursos de ciencia de datos
+AVG_SCORE_BACKEND: Puntaje promedio en cursos de backend
+AVG_SCORE_FRONTEND: Puntaje promedio en cursos de frontend
+PERFIL: Perfil técnico del estudiante
